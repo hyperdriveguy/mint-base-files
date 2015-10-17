@@ -1,8 +1,8 @@
 Package: base-files
-Version: 7.2ubuntu5.3
-Architecture: amd64
+Version: 17.2mint1
+Architecture: all
 Essential: yes
-Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Maintainer: Hyperdriveguy
 Installed-Size: 433
 Pre-Depends: awk
 Breaks: initscripts (<< 2.88dsf-13.3), sendfile (<< 2.1b.20080616-5.2~)
@@ -12,8 +12,8 @@ Section: admin
 Priority: required
 Multi-Arch: foreign
 Description: Debian base system miscellaneous files
- This package contains the basic filesystem hierarchy of a Debian system, and
- several important miscellaneous files, such as /etc/debian_version,
+ This package contains the basic filesystem hierarchy of a Linux Mint system,
+ and several important miscellaneous files, such as /etc/debian_version,
  /etc/host.conf, /etc/issue, /etc/motd, /etc/profile, and others,
- and the text of several common licenses in use on Debian systems.
+ and the text of several common licenses in use on Linux Mint systems.
 Original-Maintainer: Santiago Vila <sanvila@debian.org>
