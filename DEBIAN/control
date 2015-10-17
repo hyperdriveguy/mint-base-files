@@ -1,5 +1,5 @@
 Package: base-files
-Version: 17.2mint1
+Version: 17.2mint1.1
 Architecture: all
 Essential: yes
 Maintainer: Hyperdriveguy
@@ -7,11 +7,11 @@ Installed-Size: 433
 Pre-Depends: awk
 Breaks: initscripts (<< 2.88dsf-13.3), sendfile (<< 2.1b.20080616-5.2~)
 Replaces: base, dpkg (<= 1.15.0), miscutils
-Provides: base
+Provides: base, base-files
 Section: admin
 Priority: required
 Multi-Arch: foreign
-Description: Debian base system miscellaneous files
+Description: Linux Mint base system miscellaneous files
  This package contains the basic filesystem hierarchy of a Linux Mint system,
  and several important miscellaneous files, such as /etc/debian_version,
  /etc/host.conf, /etc/issue, /etc/motd, /etc/profile, and others,
