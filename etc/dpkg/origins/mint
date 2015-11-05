@@ -1,4 +1,4 @@
-Vendor: Ubuntu
-Vendor-URL: http://www.ubuntu.com/
+Vendor: Linux Mint
+Vendor-URL: http://www.linuxmint.com/
 Bugs: https://bugs.launchpad.net/ubuntu/+filebug
-Parent: Debian
+Parent: Ubuntu
