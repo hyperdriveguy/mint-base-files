@@ -1,8 +1,8 @@
 NAME="Linux Mint"
-VERSION="17.2 Rafaela"
+VERSION="17.3 Rosa"
 ID=ubuntu
 ID_LIKE=debian
-PRETTY_NAME="Linux Mint 17.2 Rafaela"
+PRETTY_NAME="Linux Mint 17.3 Rosa"
 VERSION_ID="14.04"
 HOME_URL="http://www.ubuntu.com/"
 SUPPORT_URL="http://help.ubuntu.com/"
